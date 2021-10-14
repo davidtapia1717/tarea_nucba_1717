@@ -1,0 +1,37 @@
+* { 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: 0px;
+
+}
+body {background-image: linear-gradient(90deg,white, green 80%)
+    }
+
+
+.imagen { 
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+}
+
+dl{
+    color: white;
+    background-color: rgb(63, 2, 75);
+}
+
+p{  
+    background-color: black;
+    color: white;
+}
+form {
+    background-color: black;
+    color: white;
+}
+
+article { 
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(5, 9, 58);
+    color: white;
+    margin: 20px;
+}
