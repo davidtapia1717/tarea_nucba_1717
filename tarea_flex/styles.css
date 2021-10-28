@@ -38,3 +38,14 @@ h2{
     border-radius: 20px;
     
 }
+
+.buton{
+       border: 1px brown solid;
+       border-radius: 10px;
+       background-color: brown;
+       color: #ffff;
+       padding: 5px;
+       text-decoration: none;
+       display: inline-block;
+    }
+
