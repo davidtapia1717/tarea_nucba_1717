@@ -1,9 +1,10 @@
 
 .padre{
-    margin-left: 200px;
-    margin-right: 200px;
     padding: 0;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 h1{  
@@ -36,16 +37,23 @@ h2{
     height: 300px;
     border: 1px black solid;
     border-radius: 20px;
+    flex-wrap: wrap;
     
 }
 
 .buton{
+       width: 200px; 
+       height: 50px;
+       margin: 10px;
        border: 1px brown solid;
        border-radius: 10px;
        background-color: brown;
        color: #ffff;
        padding: 5px;
        text-decoration: none;
-       display: inline-block;
     }
 
+.p { margin-left: 200px;
+    margin-right: 200px;
+
+}
