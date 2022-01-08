@@ -57,7 +57,10 @@ img {
 }
 
 @media only screen and (max-width: 600px){
-    .container{ 
+    h1{  margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
 
     }
 }
