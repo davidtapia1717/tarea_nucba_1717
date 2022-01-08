@@ -1,4 +1,5 @@
-body{
+*body{ padding: 0px;
+
 }
 
 .container{
@@ -33,7 +34,7 @@ h2{
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-    /* margin-bottom: auto; */
+    margin-bottom: auto;
 }
 
 img { 
@@ -56,7 +57,7 @@ img {
 }
 
 @media only screen and (max-width: 600px){
-    h2 { 
+    .box { padding: 3em;
     }
 }
   
